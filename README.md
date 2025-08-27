@@ -3,7 +3,7 @@
 
 *A Full‑Stack MERN Developer who loves clean UI, scalable code, and shipping fast.*
 
-https:RafiUllahmiani/edit/main/README.md
+https://github.com/Rafiullahmiani/Rafiullahmiani/edit/main/README.md
 [![GitHub followers](https://img.shields.io/github/followers/<your-username>?style=flat)](https://github.com/<your-username>?tab=followers)
 [![Stars](https://img.shields.io/github/stars/<your-username>?affiliations=OWNER%2CCOLLABORATOR\&style=flat)](https://github.com/<your-username>?tab=repositories)
 
