@@ -3,9 +3,7 @@
 
 *A Full‑Stack MERN Developer who loves clean UI, scalable code, and shipping fast.*
 
-https://github.com/Rafiullahmiani/Rafiullahmiani/edit/main/README.md
-[![GitHub followers](https://img.shields.io/github/followers/<your-username>?style=flat)](https://github.com/<your-username>?tab=followers)
-[![Stars](https://img.shields.io/github/stars/<your-username>?affiliations=OWNER%2CCOLLABORATOR\&style=flat)](https://github.com/<your-username>?tab=repositories)
+
 
 ---
 
@@ -14,7 +12,7 @@ https://github.com/Rafiullahmiani/Rafiullahmiani/edit/main/README.md
 * 🔭 Currently building: **MERN stack apps** (React + Node/Express + MongoDB)
 * 🌱 Learning: **TypeScript**, **Next.js**, and **MongoDB aggregation**
 * 💬 Ask me about: React hooks, REST APIs, CRUD, auth (JWT), and deployment
-* ⚡ Fun fact: I turn coffee ☕ into components and endpoints
+  
 
 ---
 
@@ -45,7 +43,7 @@ https://github.com/Rafiullahmiani/Rafiullahmiani/edit/main/README.md
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username>\&show_icons=true\&theme=default\&hide_border=true)
+![GitHub Stats](https://g
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>\&layout=compact\&hide_border=true)
 
