@@ -46,28 +46,14 @@
 
 ---
 
-## 📝 Latest Articles
 
-* [How I structure React apps](https://dev.to/)  
-* [Beginner’s guide to REST APIs](https://dev.to/)
 
 ---
 
 ## 🤝 Connect
-
-* 🌐 Portfolio: *Coming soon...*  
-* 💼 LinkedIn: [linkedin.com/in/rafiullahmiani](https://www.linkedin.com/in/rafiullahmiani)  
+  Rafiullahmiani
 * 📧 Email: rafiullahmiani1509@gmail.com  
 
 ---
 
-### ✨ Extras
 
-* **Trophies**:  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=Rafiullahmiani&theme=flat&no-frame=true)  
-* **Visitor badge**:  
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Rafiullahmiani.Rafiullahmiani)
-
----
-
-> Made with ❤️ — Happy coding!
