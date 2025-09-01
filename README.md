@@ -1,6 +1,6 @@
-# Hi, I’m **Rafi Ullah** 👋
+# Hi 👋,I’m **Rafi Ullah**
 
-*A Full-Stack MERN Developer who loves clean UI, scalable code, and shipping fast.*
+Full-Stack Developer | Passionate about clean UI, writing scalable code, and delivering fast results
 
 ---
 
