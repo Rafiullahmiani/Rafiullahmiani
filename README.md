@@ -5,6 +5,7 @@
 💻 Full-Stack Developer | Passionate about clean UI, writing scalable code, and delivering fast results  
 
 ---
+</div>
 
 ## 🚀 About Me
 
@@ -65,4 +66,4 @@
 📧 Email: **rafiullahmiani1509@gmail.com**  
 👨‍💻 GitHub: **Rafiullahmiani**
 
-</div>
+
