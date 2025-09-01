@@ -2,7 +2,7 @@
 
 # Hi 👋, I’m **Rafi Ullah**
 
- Full-Stack Developer | Passionate about clean UI, writing scalable code, and delivering fast results  
+A Full-Stack Developer | Passionate about clean UI, writing scalable code, and delivering fast results  
 
 ---
 </div>
